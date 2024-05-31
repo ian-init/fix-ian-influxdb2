@@ -72,7 +72,7 @@ group :development, :test do
   gem 'rubocop',      '~> 0.66.0'
   gem 'simplecov-cobertura', '~> 1.4.2'
   gem 'webmock',      '~> 3.7'
-# end
+# end of update
 end
 
 group :development do
